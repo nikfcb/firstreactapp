@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firstreactapp/static/css/main.f15fe069.css",
+    "main.js": "/firstreactapp/static/js/main.fef9c458.js",
+    "index.html": "/firstreactapp/index.html",
+    "main.f15fe069.css.map": "/firstreactapp/static/css/main.f15fe069.css.map",
+    "main.fef9c458.js.map": "/firstreactapp/static/js/main.fef9c458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15fe069.css",
+    "static/js/main.fef9c458.js"
+  ]
+}
